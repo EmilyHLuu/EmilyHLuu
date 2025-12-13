@@ -1,4 +1,4 @@
-## Hi, I'm Emily! 👋
+## Hi, I'm Emily Luu! 👋
 
 <!--
 **EmilyHLuu/EmilyHLuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,32 @@ Here are some ideas to get you started:
 -->
 Junior at Baruch College | 🎓 Accounting Analytics @ Zicklin School of Business | Prev. Corporate Compliance Intern @ MTA
 
-🛠 Tech Stack
+
+## ✨ About Me
+I’m a business student passionate about **data analytics, finance, compliance, and research**. I love turning messy data into insights, solving real-world problems, and communicating findings clearly. I’m always learning new tools and techniques that help bridge business, finance, and technology. I'm a Break Through Tech AI/ML Fellow and the VP of Alumnae Relations at the Women in Business Club at Baruch College. I am also a member of the ISACA Cybersecurity Club.
+
+---
+
+## 🛠 Tech Stack
+
+## 📫 Contact Me
+📧 emilyhluu@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/luu-emily)  
+🐙 GitHub: @EmilyHLuu
+
+---
+
+## 🏆 Awards & Recognition
+- 🎖 Dean’s Scholarship 
+
+---
+
+## 💡 Interests
+- Finance & Financial Modeling  
+- Data Visualization  
+- Corporate Compliance  
+- Mentorship & Professional Development  
+- Travel & Culture
+- Writing
+- Arts & art history
+
