@@ -63,6 +63,7 @@ Relevant Coursework:
 ---
 
 ## 💼 Experience
+**AI/ML Fellow** — *Break Through Tech AI Program, Cornell University* 
 
 **Corporate Compliance Intern** — *Metropolitan Transportation Authority (MTA)*  
 *New York, NY*  
