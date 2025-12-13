@@ -18,7 +18,7 @@ Junior at Baruch College | 🎓 Accounting Analytics @ Zicklin School of Busines
 
 
 ## ✨ About Me
-I’m a business student passionate about **data analytics, finance, compliance, and research**. I love turning messy data into insights, solving real-world problems, and communicating findings clearly. I’m always learning new tools and techniques that help bridge business, finance, and technology. I'm a Break Through Tech AI/ML Fellow and the VP of Alumnae Relations at the Women in Business Club at Baruch College. I am also a member of the ISACA Cybersecurity Club.
+I’m a business student passionate about **data analytics, finance, compliance, and research**. I love turning messy data into insights, solving real-world problems, and communicating findings clearly. I’m always learning new tools and techniques that help bridge business, finance, and technology. I'm actively involved both on and off campus. I am a Break Through Tech AI/ML Fellow and the VP of Alumnae Relations at the Women in Business Club at Baruch College. I am also a member of the ISACA Cybersecurity Club.
 
 ---
 
