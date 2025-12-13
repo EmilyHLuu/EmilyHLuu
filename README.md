@@ -23,6 +23,17 @@ I’m a business student passionate about **data analytics, finance, compliance,
 ---
 
 ## 🛠 Tech Stack
+**Languages:**  
+Python, JavaScript, SQL, HTML, CSS, Swift
+
+**Data & Analytics:**  
+Pandas, NumPy, scikit-learn, Seaborn, Excel
+
+**Tools & Platforms:**  
+Jupyter, Google Colab, GitHub, Docker
+
+**Soft Skills:**  
+Technical Writing, Research, Public Speaking, Communication
 
 ## 📫 Contact Me
 📧 emilyhluu@gmail.com  
@@ -35,6 +46,31 @@ I’m a business student passionate about **data analytics, finance, compliance,
 - 🎖 Dean’s Scholarship 
 
 ---
+## 🎓 Education
+
+**Baruch College, City University of New York**  
+*Zicklin School of Business*  
+Bachelor of Business Administration (BBA) — **Accounting Analytics**  
+Expected Graduation: **June 2027**  
+Minor: **Law & Policy**
+
+Relevant Coursework:  
+- Programming for Analytics
+- Information Systems & Technology
+- Business Law  
+- Statistics & Quantitative Analysis
+
+---
+
+## 💼 Experience
+
+**Corporate Compliance Intern** — *Metropolitan Transportation Authority (MTA)*  
+*New York, NY*  
+
+**Finance & Accounting Intern** — *Conatix Cysana (Cybersecurity & AI Startup)*  
+
+**Commercial Real Estate Intern** — *Project Destined*  
+
 
 ## 💡 Interests
 - Finance & Financial Modeling  
