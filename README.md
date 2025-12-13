@@ -60,6 +60,10 @@ Relevant Coursework:
 - Business Law  
 - Statistics & Quantitative Analysis
 
+**Cornell University**  
+Online certification in Machine Learning Foundations	- *August 2025*
+
+
 ---
 
 ## 💼 Experience
